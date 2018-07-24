@@ -27,3 +27,9 @@ def breakfast(breakfast_food= "Frosted Flakes")
 end
 
 puts breakfast
+
+def breakfast(breakfast_food= "Frosted Flakes")
+  puts "Morning is the best time for #{breakfast_food}"
+end
+
+puts breakfast
