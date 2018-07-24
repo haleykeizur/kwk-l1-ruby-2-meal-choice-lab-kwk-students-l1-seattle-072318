@@ -23,7 +23,7 @@ puts lunch("peanut butter")
 
 puts lunch
 
-def dinner(dinner_food= "Salmon")
+def dinner(dinner_food= "salmon")
   "Nighttime is the best time for #{dinner_food}"
 end
 
