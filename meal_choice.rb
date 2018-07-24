@@ -26,16 +26,16 @@ def breakfast(breakfast_food= "Frosted Flakes")
   puts "Morning is the best time for #{breakfast_food}!"
 end
 
-puts breakfast
+puts breakfast("pancakes")
 
 def lunch(lunch_food= "Grilled Cheese")
   puts "Afternoon is the best time for #{lunch_food}!"
 end
 
-puts lunch
+puts lunch("peanut butter")
 
 def dinner(dinner_food= "Salmon")
   puts "Nighttime is the best time for #{dinner_food}"
 end
 
-puts dinner
+puts dinner("broccoli")
