@@ -7,7 +7,7 @@ puts snacks("Swedish fish")
 puts snacks
 
 
-def breakfast(breakfast_food= "Frosted Flakes")
+def breakfast(breakfast_food= "frosted Flakes")
   "Morning is the best time for #{breakfast_food}!"
 end
 
